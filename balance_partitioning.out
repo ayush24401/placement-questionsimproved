@@ -1,0 +1,7 @@
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 5
+3ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 10
+6ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 50
+34ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 100
+70ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 1000
+706ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 10000
+

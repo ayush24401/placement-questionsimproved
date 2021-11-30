@@ -1,0 +1,20 @@
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ gcc clock_angle.c 
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 03 30
+75.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 09 30
+105.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 09 00
+270.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ gcc clock_angle.c 
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 09 00
+-90.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ gcc clock_angle.c 
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 09 00
+90.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 03 30
+75.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 05 00
+150.00
+ubuntu@ubuntu-TUF-Gaming-FX705DT-FX705DT:~/Desktop$ ./a.out 08 45
+7.00
+
